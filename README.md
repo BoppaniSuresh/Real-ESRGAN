@@ -9,7 +9,7 @@ In this repository, I have implemented a Python script, inference_realesrgan_vid
 
 <!---------------------------------- Demo videos --------------------------->
 ## 👀 Demos Videos
-Input - https://drive.google.com/file/d/1gFyCJVJhcccIb7c7azbQO2nB-CiCy2Wh/view?usp=sharing
+Input -  https://mail.google.com/mail/u/0/#search/openinapp/FMfcgzGwHfklMrmVrMmSsWrwSPnPtRXx
 
 Output - https://drive.google.com/file/d/1-7r6cK_IAOKuoh4bmNB5dX8IPBCY0Utv/view?usp=sharing
 
