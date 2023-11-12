@@ -23,7 +23,7 @@ Output - https://drive.google.com/file/d/1gFyCJVJhcccIb7c7azbQO2nB-CiCy2Wh/view?
 1. Clone repo
 
     ```bash
-    git clone https://github.com/xinntao/Real-ESRGAN.git
+    git clone https://github.com/BoppaniSuresh/Real-ESRGAN.git
     cd Real-ESRGAN
     ```
 
